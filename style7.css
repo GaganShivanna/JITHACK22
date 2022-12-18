@@ -1,0 +1,19 @@
+*{
+	background-color: #A8E9F1;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+	font-style: Monospace;
+	color:mediumpurple;
+	font-weight: bold;
+}
+body{
+	text-align: left;
+	font-size: 25px;
+	font-style: sans-serif;
+}
+body li button{
+	font-size: 25px;
+	color:#EC7421;
+}
